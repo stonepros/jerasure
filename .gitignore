@@ -24,3 +24,6 @@ Makefile.in
 *.[ao]
 *~
 .dirstamp
+
+.idea
+.vscode
